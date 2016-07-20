@@ -63,28 +63,33 @@ return [
     'recentWorks' =>[
         [
             'name' => 'Hotel Royal Oasis',
-            'image' => 'royal.jpg'
+            'image' => 'royal.jpg',
+            'description' => ''
         ],
         [
             'name' => 'FD Strategy',
-            'image' => 'fd.jpg'
+            'image' => 'fd.jpg',
+            'description' => ''
         ],
         [
             'name' => 'Kingos',
-            'image' => 'kingos.jpg'
+            'image' => 'kingos.jpg',
+            'description' => ''
         ],
         [
             'name' => 'Genesis Pro',
-            'image' => 'genesis-pro.jpg'
+            'image' => 'genesis-pro.jpg',
+            'description' => ''
         ],
         [
             'name' => '1Click',
-            'image' => '1click.jpg'
+            'image' => '1click.jpg',
+            'description' => ''
         ],
-
-                [
+        [
             'name' => 'Ti Kwen Pam',
-            'image' => 'tikwenpam.jpg'
+            'image' => 'tikwenpam.jpg',
+            'description' => ''
         ],
     ],
 
