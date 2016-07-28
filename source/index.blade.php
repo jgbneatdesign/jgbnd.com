@@ -10,9 +10,9 @@
 
 	@include('_partials.services')
 
-  	@include('_partials.work')
+  	{{--@include('_partials.work')
 
-   @include('_partials.clients')
+   @include('_partials.clients')--}}
 
    @include('_partials.contact')
 
