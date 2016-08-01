@@ -19,6 +19,6 @@
 	  	</p>
 	  	<p>{{ $name }} &copy; {{ date('Y') }}</p>
 	   <p><img src="img/{{ $logo }}"></p>
-	   <p>&lt; coded /&gt; with <i class="uk-icon-hover uk-icon-heart uk-text-danger"></i> in Delmas</p>
+	   <p>&lt; coded /&gt; with <i class="uk-icon-hover uk-icon-heart uk-text-danger"></i> in Delmas <img style="height:18px" src="/img/haiti.jpg"></p>
 	</div>
 </section>
