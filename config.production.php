@@ -1,6 +1,6 @@
 <?php
 
 return [
-	'url' => 'http://jgbnd.com',
-   	'blogUrl' => 'http://blog.jgbnd.com',
+	'url' => 'https://jgbnd.com',
+   	'blogUrl' => 'https://blog.jgbnd.com',
 ];
